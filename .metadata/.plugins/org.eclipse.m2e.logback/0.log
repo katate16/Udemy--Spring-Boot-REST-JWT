@@ -1717,3 +1717,119 @@ org.eclipse.core.runtime.CoreException: Launch configuration Program (1) referen
 2023-03-07 18:10:04,488 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-07 18:10:04,506 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-07 18:10:04,510 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:35:34,517 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:35:34,570 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:35:34,574 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:36:08,775 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:36:08,811 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:36:08,816 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:37:15,321 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:37:15,373 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:37:15,378 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:37:38,119 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:37:38,126 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:37:38,129 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:37:54,919 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:37:54,925 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:37:54,929 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:38:16,603 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:38:16,612 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:38:16,615 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:38:20,838 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:38:20,849 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:38:20,851 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:38:35,574 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:38:35,587 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:38:35,590 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:39:14,879 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:39:14,885 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:39:14,887 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:39:19,714 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:39:19,774 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:39:19,778 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:39:59,241 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:39:59,251 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:39:59,254 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:44:11,438 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:44:11,446 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:44:11,449 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:44:17,322 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:44:17,328 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:44:17,331 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:44:21,544 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:44:21,550 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:44:21,553 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:47:15,978 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:47:15,986 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:47:15,988 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:48:13,491 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-07 18:49:09,066 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:49:09,091 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:49:09,097 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:49:19,420 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:49:19,434 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:49:19,438 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:49:26,752 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:49:26,768 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:49:26,771 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:49:34,788 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:49:34,814 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:49:34,818 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:49:49,444 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:49:49,450 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:49:49,453 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:51:07,193 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-07 18:52:23,273 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:52:23,306 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:52:23,319 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:52:38,437 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:52:38,444 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:52:38,447 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:52:42,461 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:52:42,475 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:52:42,479 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:53:29,327 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:53:29,335 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:53:29,339 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:53:46,182 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:53:46,191 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:53:46,194 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:53:58,009 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:53:58,017 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:53:58,021 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:54:09,784 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:54:09,789 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:54:09,791 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:54:10,866 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:54:10,873 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:54:10,877 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:54:26,229 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:54:26,235 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:54:26,237 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:54:48,454 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:54:48,459 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:54:48,462 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:55:07,007 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:55:07,013 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:55:07,016 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:55:30,063 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:55:30,069 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:55:30,072 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:58:26,212 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:58:26,218 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:58:26,221 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 18:59:48,249 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 18:59:48,259 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 18:59:48,263 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 19:01:40,690 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 19:01:40,696 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 19:01:40,698 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 19:02:44,224 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 19:02:44,229 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 19:02:44,234 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 19:03:05,224 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 19:03:05,229 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 19:03:05,231 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
+2023-03-07 19:03:18,462 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-07 19:03:18,469 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-07 19:03:18,473 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\SpringProject01\src\test\resources
