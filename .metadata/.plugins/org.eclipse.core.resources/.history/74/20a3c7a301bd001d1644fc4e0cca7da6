@@ -1,0 +1,7 @@
+package domain;
+
+public class Person {
+	public String Name;
+	public String Email;
+	
+}

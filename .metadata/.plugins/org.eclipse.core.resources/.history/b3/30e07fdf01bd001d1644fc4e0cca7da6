@@ -1,0 +1,18 @@
+package domain;
+
+public class Person {
+	private Integer Id;
+	private String Name;
+	private String Email;
+	
+	public Person() {}
+
+	public Person(Integer id, String name, String email) {
+		super();
+		Id = id;
+		Name = name;
+		Email = email;
+	}
+	
+	
+}
