@@ -1,6 +1,7 @@
 package com.katate.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -25,7 +26,12 @@ public class ProductController {
 	// Get Product Endpoint
 	@GetMapping(path = "/getProduct")
 	public ResponseEntity<?> getProduct(@RequestParam int id) {
-		return ResponseEntity.ok(productService.getProduct(id));
+		var response = productService.getProduct(id);
+		
+		if(response != null) {
+			return ResponseEntity.ok(response);			
+		}
+		return new ResponseEntity<>("Product not found.", HttpStatus.NOT_FOUND);
 	}
 	
 	// Get All Products Endpoint
