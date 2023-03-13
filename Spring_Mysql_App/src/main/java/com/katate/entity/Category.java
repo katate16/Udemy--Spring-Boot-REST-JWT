@@ -1,13 +1,15 @@
 package com.katate.entity;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
-import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToMany;
 
 
 
@@ -16,11 +18,12 @@ public class Category implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	private int Id;
-	
-	@Column
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
 	private String name;
+	
+	@ManyToMany(mappedBy = "categories")
+	private List<Product> products = new ArrayList<Product>();
 	
 	public Category() {
 		
@@ -31,16 +34,16 @@ public class Category implements Serializable {
 	}
 
 	public Category(int id, String name) {
-		this.Id = id;
+		this.id = id;
 		this.name = name;
 	}
 
 	public int getId() {
-		return Id;
+		return id;
 	}
 
 	public void setId(int id) {
-		Id = id;
+		this.id = id;
 	}
 
 	public String getName() {
@@ -50,10 +53,18 @@ public class Category implements Serializable {
 	public void setName(String name) {
 		this.name = name;
 	}
+	
+	public List<Product> getProducts() {
+		return products;
+	}
+	
+	public void setProducts(List<Product> products) {
+		this.products = products;
+	}
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(Id, name);
+		return Objects.hash(id);
 	}
 
 	@Override
@@ -65,8 +76,6 @@ public class Category implements Serializable {
 		if (getClass() != obj.getClass())
 			return false;
 		Category other = (Category) obj;
-		return Id == other.Id && Objects.equals(name, other.name);
+		return id == other.id;
 	}
-	
-	
 }
