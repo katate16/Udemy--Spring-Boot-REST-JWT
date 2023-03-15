@@ -1,7 +1,6 @@
 package com.katate.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,38 +12,32 @@ import com.katate.service.CategoryService;
 @Controller
 @RequestMapping(path = "/category")
 public class CategoryController {
-	
+
 	@Autowired
 	private CategoryService categoryService;
-	
+
 	// Add Category Endpoint
 	@PostMapping(path = "/add")
 	public ResponseEntity<?> addCategory(@RequestParam String name) {
 		return ResponseEntity.ok(categoryService.addCategory(name));
 	}
-	
+
 	// Get Category Endpoint
 	@GetMapping(path = "/getCategory")
 	public ResponseEntity<?> getCategory(@RequestParam int id) {
-		var response = categoryService.getCategory(id);
-		
-		if(response != null) {
-			
-			return ResponseEntity.ok(response);
-		}
-		return new ResponseEntity<>("Category not found.", HttpStatus.NOT_FOUND);
+		return ResponseEntity.ok(categoryService.getCategory(id));
 	}
-	
+
 	// Get All Categories Endpoint
 	@GetMapping(path = "/getAll")
-	public ResponseEntity<?> getAllCategories(){
+	public ResponseEntity<?> getAllCategories() {
 		return ResponseEntity.ok(categoryService.getAll());
 	}
-	
+
 	// Get Products by Category Id
 	@GetMapping(path = "/getProductsByCategoryId")
-	public ResponseEntity<?> getProductsByCategoryId(@RequestParam int id){
+	public ResponseEntity<?> getProductsByCategoryId(@RequestParam int id) {
 		return ResponseEntity.ok(null);
 	}
-	
+
 }

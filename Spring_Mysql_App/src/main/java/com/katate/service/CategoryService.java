@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.katate.entity.*;
 import com.katate.repo.CategoryRepository;
+import com.katate.service.exceptions.ObjectNotFoundException;
 
 @Service
 public class CategoryService {
@@ -16,7 +17,11 @@ public class CategoryService {
 	
 	// Returns a Category by searching it's ID
 	public Category getCategory(int id) {
-		return categoryRepository.findById(id).orElse(null);
+		var result = categoryRepository.findById(id).orElse(null);
+		if(result == null) {
+			throw new ObjectNotFoundException("Category not found.");
+		}
+		return result; 
 	}
 
 	// Returns all Categories

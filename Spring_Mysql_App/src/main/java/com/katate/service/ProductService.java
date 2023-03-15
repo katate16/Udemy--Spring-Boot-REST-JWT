@@ -4,9 +4,12 @@ import java.util.Arrays;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.katate.controller.exceptions.StandartException;
 import com.katate.entity.Product;
 import com.katate.repo.CategoryRepository;
 import com.katate.repo.ProductRepository;
+import com.katate.service.exceptions.ObjectNotFoundException;
 
 @Service
 public class ProductService {
@@ -19,7 +22,11 @@ public class ProductService {
 	
 	// Returns a Product by searching it's ID
 	public Product getProduct(int id) {
-		return productRepository.findById(id).orElse(null);
+		var result = productRepository.findById(id).orElse(null); 
+		if(result == null) {
+			throw new ObjectNotFoundException("Product not found.");
+		}
+		return result;
 	}
 	
 	// Returns all Products
