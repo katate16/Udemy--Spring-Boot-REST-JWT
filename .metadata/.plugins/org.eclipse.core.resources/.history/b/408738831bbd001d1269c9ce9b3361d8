@@ -1,6 +1,0 @@
-package com.project01.domain;
-
-public class Category {
-	private Integer id;
-	private String Name;
-}

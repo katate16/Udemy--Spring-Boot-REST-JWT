@@ -1,9 +1,0 @@
-package com.project01.resources;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-public class CategoryResource {
-	
-
-}
