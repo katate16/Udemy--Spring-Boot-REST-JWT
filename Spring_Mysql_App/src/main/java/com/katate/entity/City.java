@@ -3,6 +3,8 @@ package com.katate.entity;
 import java.io.Serializable;
 import java.util.Objects;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -18,6 +20,7 @@ public class City implements Serializable{
 	private int id;
 	private String name;
 	
+	@JsonManagedReference
 	@ManyToOne
 	@JoinColumn(name = "StateId")
 	private State state;

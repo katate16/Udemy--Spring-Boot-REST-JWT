@@ -39,5 +39,4 @@ public class CategoryController {
 	public ResponseEntity<?> getProductsByCategoryId(@RequestParam int id) {
 		return ResponseEntity.ok(null);
 	}
-
 }

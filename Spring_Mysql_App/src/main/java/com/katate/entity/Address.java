@@ -3,10 +3,14 @@ package com.katate.entity;
 import java.io.Serializable;
 import java.util.Objects;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
 
 @Entity
 public class Address implements Serializable {
@@ -19,7 +23,14 @@ public class Address implements Serializable {
 	private String street;
 	private int number;
 	private String postalAdress;
+	
+	@ManyToOne
+	@JoinColumn(name = "cityId") 
 	private City city;
+	
+	@JsonBackReference
+	@ManyToOne
+	@JoinColumn(name = "clientId")
 	private Client client;
 	
 	public Address() {

@@ -4745,3 +4745,212 @@ org.eclipse.core.runtime.CoreException: Launch configuration Program (1) referen
 2023-03-15 19:37:41,145 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-15 19:37:41,149 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-15 19:37:41,151 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:12:52,864 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-16 12:14:11,948 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:14:11,975 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:14:11,980 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:14:14,369 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:14:14,397 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:14:14,435 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:19:06,497 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:19:06,506 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:19:06,510 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:24:19,232 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:24:19,239 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:24:19,243 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:24:29,879 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:24:29,886 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:24:29,889 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:24:34,032 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:24:34,038 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:24:34,042 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:24:44,422 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:24:44,429 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:24:44,432 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:25:38,074 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:25:38,085 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:25:38,090 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:26:01,438 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:26:01,445 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:26:01,449 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:26:11,808 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:26:11,815 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:26:11,817 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:26:27,588 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:26:27,595 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:26:27,598 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:27:02,220 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:27:02,226 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:27:02,229 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:27:19,861 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:27:19,867 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:27:19,870 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:28:08,354 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:28:08,360 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:28:08,363 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:29:06,246 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:29:06,255 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:29:06,258 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:29:28,552 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:29:28,559 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:29:28,563 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:29:34,710 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:29:34,716 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:29:34,719 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:30:45,596 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:30:45,603 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:30:45,606 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:30:49,515 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:30:49,521 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:30:49,524 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:46:39,549 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:46:39,564 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:46:39,567 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:46:53,559 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:46:53,570 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:46:53,573 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:47:15,337 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:47:15,348 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:47:15,351 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:47:23,308 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:47:23,314 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:47:23,317 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:47:40,220 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:47:40,227 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:47:40,229 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:47:43,654 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:47:43,660 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:47:43,662 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:50:15,093 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:50:15,099 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:50:15,102 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:50:25,520 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:50:25,527 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:50:25,530 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:50:40,897 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:50:40,903 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:50:40,906 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:50:43,676 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:50:43,682 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:50:43,685 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:50:58,204 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:50:58,210 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:50:58,213 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:51:20,548 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:51:20,555 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:51:20,557 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:51:23,688 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:51:23,694 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:51:23,697 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:51:27,898 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:51:27,903 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:51:27,906 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:51:44,590 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:51:44,594 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:51:44,596 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:52:58,313 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:52:58,320 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:52:58,324 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:53:24,948 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:24,953 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:24,955 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:53:25,980 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:25,985 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:25,987 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:53:48,733 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:48,739 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:48,742 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:53:52,258 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:52,265 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:52,268 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:53:57,710 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:57,715 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:57,717 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:53:59,745 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:53:59,750 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:53:59,752 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:54:25,829 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:54:25,834 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:54:25,837 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:54:31,384 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:54:31,390 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:54:31,392 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:55:15,067 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:55:15,073 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:55:15,076 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:55:21,966 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:55:21,972 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:55:21,975 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:55:33,491 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:55:33,496 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:55:33,499 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:55:41,352 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:55:41,371 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:55:41,374 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:55:43,427 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:55:43,433 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:55:43,436 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 12:58:47,856 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 12:58:47,863 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 12:58:47,866 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 13:01:39,576 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:01:39,582 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:01:39,585 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-16 13:02:07,069 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 13:02:07,076 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 13:02:07,078 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:05:23,464 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-17 11:05:57,059 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:05:57,078 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:05:57,083 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:06:09,132 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:06:09,140 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:06:09,143 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:06:39,840 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:06:39,863 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:06:39,868 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:06:48,257 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:06:48,279 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:06:48,283 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:06:53,026 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:06:53,054 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:06:53,058 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:07:13,389 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:07:13,417 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:07:13,420 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:07:17,274 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:07:17,298 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:07:17,303 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:07:19,337 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:07:19,351 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:07:19,356 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:08:29,910 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:08:29,930 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:08:29,934 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:09:01,140 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:09:01,166 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:09:01,170 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:25:46,526 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:25:46,533 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:25:46,535 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:27:43,964 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:27:43,971 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:27:43,974 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:27:51,530 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:27:51,535 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:27:51,538 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:27:55,985 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:27:56,023 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:27:56,027 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:28:09,372 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:28:09,377 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:28:09,379 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:28:28,164 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:28:28,170 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:28:28,172 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:31:50,042 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:31:50,049 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:31:50,051 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources
+2023-03-17 11:32:41,294 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-17 11:32:41,301 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-17 11:32:41,304 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\katate\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Spring_Mysql_App\src\test\resources

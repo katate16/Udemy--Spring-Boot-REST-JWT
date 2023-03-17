@@ -1,16 +1,23 @@
 package com.katate.entity;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.katate.entity.enums.ClientType;
 
+import jakarta.persistence.CollectionTable;
+import jakarta.persistence.ElementCollection;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
 
 @Entity
 public class Client implements Serializable {
@@ -23,7 +30,14 @@ public class Client implements Serializable {
 	private String email;
 	private String financesId;
 	private int clientType;
-	private Set<String> phoneNumberSet = new HashSet<>();
+	
+	@ElementCollection
+	@CollectionTable(name = "phoneNumbers")
+	private Set<String> phoneNumbers = new HashSet<>();
+	
+	@JsonManagedReference
+	@OneToMany(mappedBy = "client")
+	private List<Address> adressList = new ArrayList<>();
 	
 	public Client() {
 	}
@@ -75,12 +89,28 @@ public class Client implements Serializable {
 	public void setClientType(ClientType clientType) {
 		this.clientType = clientType.getId();
 	}
+	
+	public Set<String> getPhoneNumberSet() {
+		return phoneNumbers;
+	}
+	
+	public void setPhoneNumberSet(Set<String> phoneNumberSet) {
+		this.phoneNumbers = phoneNumberSet;
+	}
+	
+	public List<Address> getAdressList() {
+		return adressList;
+	}
+	
+	public void setAdressList(List<Address> adressList) {
+		this.adressList = adressList;
+	}
 
 	@Override
 	public int hashCode() {
 		return Objects.hash(id);
 	}
-
+	
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
@@ -92,4 +122,5 @@ public class Client implements Serializable {
 		Client other = (Client) obj;
 		return id == other.id;
 	}
+
 }

@@ -12,7 +12,6 @@ import jakarta.servlet.http.HttpServletRequest;
 @ControllerAdvice
 public class ControllerExceptionHandler {
 	
-
 	@ExceptionHandler(ObjectNotFoundException.class)
 	public ResponseEntity<StandartException> objectNotFound(ObjectNotFoundException e, HttpServletRequest r){
 		StandartException ex = new StandartException(HttpStatus.NOT_FOUND.value(), e.getMessage(), System.currentTimeMillis());
